@@ -1,0 +1,8 @@
+The Earthquake Explorer app is an event-based interface that offers users a single point-of-entry 
+for access to USGS Earthquakes Hazards Program data as they become available in near-real time. 
+Users can view and get information about earthquake events by time and magnitude. Queries based 
+on spatial extent, defined by place-name or bounding box, can be applied to the data. 
+Summary reports are generated for all earthquake events, along with the selected events in the 
+user-defined area of interest, and are available for export.
+This application was created by Behzad Vahedi and Sara Lafia, GIScience graduate students 
+at the University of California, Santa Barbara.
